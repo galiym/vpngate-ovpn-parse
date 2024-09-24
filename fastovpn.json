@@ -138,7 +138,6 @@ persist-key
 persist-tun
 client
 verb 3
-#auth-user-pass
 <ca>
 -----BEGIN CERTIFICATE-----
 MIIFazCCA1OgAwIBAgIRAIIQz7DSQONZRGPgu2OCiwAwDQYJKoZIhvcNAQELBQAw
