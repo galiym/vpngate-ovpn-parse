@@ -116,7 +116,7 @@ dcd806fb1787c1605e108e1659fab161
         "ovpnPassword": "vpn"
     },
     {
-        "country": "Japan",
+        "country": "Japan1",
         "imageURL": "",
         "config": "###############################################################################
 # OpenVPN 2.0 Sample Configuration File
