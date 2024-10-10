@@ -2,7 +2,7 @@
     {
         "country": "GERMANY",
         "imageURL": "",
-        "config": "client
+        "config": """client
 dev tun
 proto udp
 sndbuf 0
@@ -112,7 +112,7 @@ b5a875f42771adf744676a7507ffaea0
 dcd806fb1787c1605e108e1659fab161
 -----END OpenVPN Static key V1-----
 </tls-auth>
-",
+""",
         "ovpnUserName": "vpn",
         "ovpnPassword": "vpn",
         "Speed": "914727476"
